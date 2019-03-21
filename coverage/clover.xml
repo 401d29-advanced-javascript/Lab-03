@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1553130744261" clover="3.2.0">
-  <project timestamp="1553130744261" name="All files">
-    <metrics statements="27" coveredstatements="25" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7" elements="42" coveredelements="38" complexity="0" loc="27" ncloc="27" packages="1" files="1" classes="1"/>
+<coverage generated="1553135501208" clover="3.2.0">
+  <project timestamp="1553135501208" name="All files">
+    <metrics statements="48" coveredstatements="46" conditionals="8" coveredconditionals="6" methods="12" coveredmethods="12" elements="68" coveredelements="64" complexity="0" loc="48" ncloc="48" packages="1" files="2" classes="2"/>
     <file name="reader-fixed.js" path="/home/aaron/401d29/docs/Lab-03/lib/reader-fixed.js">
       <metrics statements="27" coveredstatements="25" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7"/>
       <line num="3" count="1" type="stmt"/>
@@ -30,7 +30,31 @@
       <line num="52" count="0" type="stmt"/>
       <line num="55" count="1" type="stmt"/>
       <line num="56" count="1" type="stmt"/>
-      <line num="87" count="2" type="stmt"/>
+      <line num="67" count="2" type="stmt"/>
+    </file>
+    <file name="reader-promises.js" path="/home/aaron/401d29/docs/Lab-03/lib/reader-promises.js">
+      <metrics statements="21" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
