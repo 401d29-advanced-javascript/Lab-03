@@ -1,0 +1,31 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401d29-advanced-javascript/Lab-03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401d29-advanced-javascript/Lab-03/issues"
+  },
+  "homepage": "https://github.com/401d29-advanced-javascript/Lab-03#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "util": "^0.11.1",
+    "utils": "^0.3.1"
+  }
+}
